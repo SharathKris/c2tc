@@ -1,4 +1,4 @@
-package tna.day11.exceptions;
+package tns.day11.exceptions;
 
 import java.util.Scanner;
 
